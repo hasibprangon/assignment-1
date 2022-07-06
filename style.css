@@ -1,0 +1,249 @@
+body{
+    font-family: 'Arima', cursive;
+    margin: 0;
+}
+
+
+.bg1{
+    padding: 40px;
+   background-image: url(donate-today-main/images/donation1.jpg);
+   background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+      
+}
+.k1{
+    text-align: center;
+  
+}
+
+#hh1{
+    color: antiquewhite;
+    align-self: center;
+    padding-top: 100px;
+    font-size: 60px;
+}
+.p1{
+    padding-top: 50px;
+    font-size: large;
+    color: white;
+}
+.lb1{
+    margin-top: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 30px;
+    color:black;
+    border-radius: 5px;
+}
+.pr2{
+    text-align: center;
+    size: 10px;
+}
+.display{
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+}
+.div1{
+    width: 100px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+.div2{
+   
+    width: 100px;
+    height: 80px;
+    color: red;
+    background-color: rgb(235, 207, 155);
+    border: 1px solid rgb(247, 128, 128);
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+.div3{
+    width: 100px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+.div4{
+    width: 100px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+.div5{
+    width: 100px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.ammount{
+    text-align: center;
+    margin-bottom: 20px;
+}
+hr{
+   margin-left: 20%;
+    margin-right: 20%;
+}
+
+.lb2{
+    
+    margin-left: 600px;
+   
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 30px;
+    color:black;
+    border-radius: 5px;  
+}
+.pran1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.father-box{
+    display: flex;
+}
+.box1{
+    width: 500px;
+    height: 250px;
+    margin-left: 50px;
+    background-color: aqua;
+     border: 1px solid gray;
+    
+}
+
+.box2{
+    width: 500px;
+    height: 250px;
+    margin-left: 50px;
+    border: 1px solid gray;
+    background-color: greenyellow;
+    
+}
+.box3{
+    width: 500px;
+    height: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: bisque;
+    border: 1px solid gray;
+    
+} 
+.sec2{
+    margin-bottom: 50px;
+} 
+.c1{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+     .input{
+        margin-top: 50px;
+        border: none;
+        background-color: transparent;
+        resize: none;
+        outline: none;
+     }
+     .bn1{
+        display: flex;
+     }
+     .section3{
+        display: flex;
+        width: 500px;
+    height: 150px;
+    margin-left: 430px;
+    
+    background-color: rgb(245, 230, 212);
+     }
+     
+     #input2{
+        margin-top: 75px;
+        margin-left: 120px;
+     }
+     
+     .lb3{
+        text-decoration: none;
+        background-color: red;
+        padding: 10px 30px;
+        color:black;
+        border-radius: 5px; 
+     }
+     .phh1{
+        text-align: center;
+     }
+     footer{
+        margin-top: 100px;
+        text-align: center;
+        background-color: black;
+        height: 150px;
+     }
+     #ft1{
+        padding-top: 50px;
+        color: red;
+     }
+     #ft2{
+        color: white;
+     }
+     .fc{
+        margin-top: 100px;
+        display: flex;
+     }
+     .fc2{
+        padding-left: 5px;
+        width: 50%;
+    height: 50%;
+     }
+     .fc3 img{
+        width: 50%;
+    padding-left: 10%;
+     }
+     .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(red,orange);
+        padding: 10px 30px;
+        color:black;
+        border-radius: 5px;
+     }
+     .hp1{
+        margin-top: 100px;
+     }
+     .hp2{
+        margin-top: 100px;
+     }
+     .hp3{
+        margin-top: 100px;
+     }
+    .r2{
+        font-size: 50px;
+    }
